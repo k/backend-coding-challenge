@@ -4,7 +4,7 @@ Jest is used as the test runner;
 
 ## Prerequisites
 
-* Node 13.2+ (See https://github.com/nodejs/node/pull/29866)
+* Node 10+
 
 ## How to Run the Tests
 
