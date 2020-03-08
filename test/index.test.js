@@ -1,4 +1,4 @@
-import Exchange from '.';
+import Exchange from '../lib';
 
 test('Can an order book be persisted and synced', () => {
     const x = new Exchange();
