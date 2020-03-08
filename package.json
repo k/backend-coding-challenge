@@ -1,0 +1,20 @@
+{
+  "name": "namebase-backend-coding-challenge",
+  "version": "1.0.0",
+  "description": "Namebase Backend Coding Challenge",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "avl": "^1.4.4",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.7",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
